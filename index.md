@@ -1,13 +1,14 @@
 ---
 layout: page
-title: 'Hello Dekyll'
+title: 'Hello Dekyll Test'
 file_path: index.md
 
 ---
-
 {% include JB/setup %}
 
 Welcome to Dekyll 0.1!
+
+This is a test post
 
 Your site is now live on: [http://FilmKnurd.github.io/dekyll-test](http://FilmKnurd.github.io/dekyll-test)
 
